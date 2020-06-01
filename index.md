@@ -1,6 +1,6 @@
-# Hello world
+# This is me
 
-Welcome!
+Welcome to my personal site
 
 ```python
 print("Hello world!")
