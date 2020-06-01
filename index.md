@@ -2,6 +2,6 @@
 
 Welcome!
 
-```python3
+```python
 print("Hello world!")
 ```
